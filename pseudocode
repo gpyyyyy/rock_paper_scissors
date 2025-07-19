@@ -5,3 +5,11 @@ es soll die variablen fuer rock paper und scissors geben
 es gibt 3 moeglichkeiten also muss ich die math.floor funktion benutzen um einen bereich einzuschraenken von 1 bis 3 
 mit einer funktion soll bei jedem aufrufen der funktion eines der 3 moeglichkeiten 
 ausgegeben werden 
+
+
+bei der funktion playround soll eine runde gestartet werden
+also wahrscheinlich ein loop es soll geschaut werden ob in diesem loop
+die wahl des menschen die wahl des computers schlaegt
+wenn jemand der beiden gewinnt soll der jeweilige ein punkt bekommen und 
+bei einem unentschieden sollen beide nochmal waehlen
+
