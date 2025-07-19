@@ -1,0 +1,7 @@
+*/*
+function getcomputerchoice
+funktion soll random einen string zurueck geben aus einer variable 
+es soll die variablen fuer rock paper und scissors geben 
+es gibt 3 moeglichkeiten also muss ich die math.floor funktion benutzen um einen bereich einzuschraenken von 1 bis 3 
+mit einer funktion soll bei jedem aufrufen der funktion eines der 3 moeglichkeiten 
+ausgegeben werden 
