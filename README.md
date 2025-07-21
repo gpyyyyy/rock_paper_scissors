@@ -1,15 +1,18 @@
 Schere, Stein, Papier - Das Spiel
+
 Ein einfaches, aber unterhaltsames Konsolen-basiertes Schere-Stein-Papier-Spiel, implementiert in reinem JavaScript. 
 Fordere den Computer zu einem Duell über fünf Runden heraus und stelle deine Fähigkeiten auf die Probe!
 
 
 📜 Spielbeschreibung
+
 Dieses Projekt ist eine klassische Implementierung des Spiels "Schere, Stein, Papier". 
 Du spielst gegen den Computer, der seine Wahl bei jeder Runde zufällig trifft. 
 Das Spiel läuft über eine feste Anzahl von fünf Runden. Dein Ziel ist es, am Ende mehr Runden als der Computer gewonnen zu haben.
 
 
 ✨ Features
+
 Interaktives Konsolenspiel: Alle Eingaben und Ausgaben erfolgen direkt in der Entwicklerkonsole deines Browsers.
 Zufälliger Gegner: Der Computer wählt seine Züge zufällig, was jede Runde unvorhersehbar macht.
 Rundenbasiertes System: Das Spiel erstreckt sich über fünf Runden, um einen klaren Gewinner zu ermitteln.
@@ -18,6 +21,7 @@ Klares Ergebnis: Nach Abschluss aller Runden wird der Endstand und der Gesamtsie
 
 
 🚀 Wie man spielt
+
 Das Spiel zu starten ist ganz einfach. Da es sich um reines JavaScript handelt, benötigst du lediglich einen Webbrowser.
 Klone das Repository oder kopiere den gesamten JavaScript-Code.
 Öffne die Entwicklerkonsole in deinem Browser (normalerweise mit F12 oder Cmd+Opt+J auf Mac).
@@ -29,6 +33,7 @@ Nach fünf Runden wird der Gewinner verkündet. Viel Glück!
 
 
 ⚙️ Code-Struktur
+
 Der Code ist in mehrere Funktionen unterteilt, um die Lesbarkeit und Wartbarkeit zu gewährleisten:
 getComputerChoice(): Diese Funktion generiert die zufällige Auswahl des Computers (Rock, Paper oder Scissor).
 getHumanChoice(): Fordert den Spieler über ein prompt zur Eingabe seiner Wahl auf.
